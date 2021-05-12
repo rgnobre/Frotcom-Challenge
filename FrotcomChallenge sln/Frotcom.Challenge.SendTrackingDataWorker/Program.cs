@@ -30,14 +30,9 @@ namespace Frotcom.Challenge.SendTrackingDataWorker
 
                     services.AddSingleton<IPacketLocalStorage, PacketLocalStorage>();
                     services.AddSingleton<IPublishService<Packet>, ConsolePublishService>();
-
-
                 })
                 .RunConsoleAsync();
         }
 
-
-   
     }
-
 }

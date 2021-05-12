@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Globalization;
-using System.Text;
 using System.Timers;
-using System.Threading.Tasks;
 using Frotcom.Challenge.Queue;
 using Frotcom.Challenge.SendTrackingDataWorker.Commons;
 using Frotcom.Challenge.SendTrackingDataWorker.Enums;

@@ -1,14 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 using Frotcom.Challenge.Data.Models;
 using Frotcom.Challenge.Queue;
 using Frotcom.Challenge.Reverse.Geocoding;
-using Frotcom.Challenge.SendTrackingDataWorker.Args;
 using Frotcom.Challenge.SendTrackingDataWorker.LocalStorage;
-using Frotcom.Challenge.SendTrackingDataWorker.Services.IServices;
 
 namespace Frotcom.Challenge.SendTrackingDataWorker.Classes
 {

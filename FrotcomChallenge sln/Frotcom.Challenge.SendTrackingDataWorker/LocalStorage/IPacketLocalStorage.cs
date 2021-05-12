@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Concurrent;
+﻿using System.Collections.Concurrent;
 using System.Collections.Generic;
-using System.Text;
 using Frotcom.Challenge.Data.Models;
-using Frotcom.Challenge.SendTrackingDataWorker.Args;
 
 namespace Frotcom.Challenge.SendTrackingDataWorker.LocalStorage
 {

@@ -1,11 +1,8 @@
 ﻿using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading;
 using Frotcom.Challenge.Data.Models;
-using Frotcom.Challenge.SendTrackingDataWorker.Args;
 using Frotcom.Challenge.SendTrackingDataWorker.Services.IServices;
 
 namespace Frotcom.Challenge.SendTrackingDataWorker.LocalStorage
